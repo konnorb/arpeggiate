@@ -25,6 +25,6 @@ A CMS written in PHP for Chords &amp; Lyrics
 
 Access the admin panel by going to the `/admin` directory/url.
 
-The default login details are simply admin and password. 
+The default login details are simply `admin` and `password`. 
 
 Generating a new `.htpasswd` is reccomended.
